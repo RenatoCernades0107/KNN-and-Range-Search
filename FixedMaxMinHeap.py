@@ -1,5 +1,6 @@
 import heapq
 
+
 class FixedMaxMinHeap:
     def __init__(self, max_size: int, comp_fun=lambda x: x):
         self.data: list[tuple[..., ...]] = []

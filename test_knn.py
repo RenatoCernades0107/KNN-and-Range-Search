@@ -3,6 +3,7 @@ import numpy as np
 from knn import KNN
 from FixedMaxMinHeap import FixedMaxMinHeap
 
+
 # Your test class
 class TestKNN(unittest.TestCase):
     def setUp(self):
